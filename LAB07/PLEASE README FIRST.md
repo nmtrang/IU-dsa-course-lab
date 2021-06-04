@@ -27,7 +27,7 @@ Next, type this command to export the jpg image file:
 <h3>The Huffman graph has just been created</h3>
 <h5>Text: "I'm Nguyen Minh Trang. I am working on DSA lab"</h5>
 
-<b>Interpretation</b>: Upper number is the node number. Lower number is the occurrence number. Last is the character. Therefore, according to the text, there are 47 characters that constitute 51 nodes.
+<b>Interpretation</b>: Upper number is the node number. Lower number is the occurrence number. Last is the character. Therefore, according to the text, there are 47 characters that constitute 53 nodes.
 
 ![huffman graph](tree-graph/graph.jpg)
 
